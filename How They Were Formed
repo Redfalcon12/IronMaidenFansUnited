@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>How They Were Formed</title>
+        <link href="styles/main.css" rel="stylesheet" /> type="text/css" />
+    </head>
+
+    <body>
+        <h1>How They Were Formed</h1>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li>How They Were Formed</li>
+            <li><a href="There First Few Years.html"</a><li>
+          </ul>
+          <h2>How They Were Formed</h2>
+          <p>This is all about How They Were Formed</p>
+        </body>
+
+</html>
